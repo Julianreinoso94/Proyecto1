@@ -17,7 +17,8 @@
 Fecha: <input type="datetime" name="fecha">
 <br><br>
 Email: <input type="email" name="correo">
-
+<br><br>Contrase&ntilde;a: <input type="password" name="contraseña" >
+<br><br>Ingrese otra vez la Contase&ntilde;a:<input type="password" name="contraseña2" >
 <br>
 Seleccione sexo:
 <br>

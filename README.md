@@ -37,7 +37,12 @@ Seleccione si posee alguno de estos conocimientos:
   <input type="checkbox" name="Historia" value="History"> HISTORIA<br>
   <input type="checkbox" name="Matematicas" value="Mat" checked> MATEMATICA <br>
 </form>
+ <br> <br>
+Materias Aprobadas:<input type="number" name="tmaterias_Numb">
+<br> <br>
  
+<input type="submit" name="Enviar" >
+
  
 
 

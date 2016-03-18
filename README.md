@@ -26,7 +26,7 @@ Lugar de Residencia:
 <br><br> 
 
 <br>
-Fecha de Nacimiento: <input type="datetime" name="fecha">
+ Fecha de Nacimiento: <input type="date" name="bday">
 <br><br>
 Email: <input type="email" name="correo">
 <br><br>Contrase&ntilde;a: <input type="password" name="contraseña" >

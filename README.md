@@ -13,10 +13,17 @@
 
 <hgroup> <h1>Formulario de Ingreso </h1></hgroup>
 <br> <br> 
+
 Nombres: <input type="text" name="nombre.txt" >
 <br> <br> 
 Apellido:<input type:"text" name="apellido.txt">
 <br> <br> 
+Lugar de Residencia: 
+<select>
+  <option value="Capital Federal">Capital Federal</option>
+  <option value="GBA">GBA</option>
+</select>
+<br><br> 
 
 <br>
 Fecha de Nacimiento: <input type="datetime" name="fecha">

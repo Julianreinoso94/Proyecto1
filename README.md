@@ -33,8 +33,6 @@ Email: <input type="email" name="correo">
 <br><br>Ingrese otra vez la Contase&ntilde;a:<input type="password" name="contraseña2" >
 <br>
 Seleccione sexo:
-<br>
-
 Mascuino<input name="Sexo" type="radio" id="Sex" value="Masculino">
 
 Femenino<input name="Sexo" type="radio" id="Sex" value="Femenino" checked>

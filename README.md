@@ -14,6 +14,11 @@
 <hgroup> <h1>Formulario de Ingreso </h1></hgroup>
 
 <br>
+Fecha: <input type="datetime" name="fecha">
+<br><br>
+Email: <input type="email" name="correo">
+
+<br>
 Seleccione sexo:
 <br>
 

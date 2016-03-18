@@ -12,6 +12,11 @@
 <body>
 
 <hgroup> <h1>Formulario de Ingreso </h1></hgroup>
+<br> <br> 
+Nombres: <input type="text" name="nombre.txt" >
+<br> <br> 
+Apellido:<input type:"text" name="apellido.txt">
+<br> <br> 
 
 <br>
 Fecha de Nacimiento: <input type="datetime" name="fecha">
